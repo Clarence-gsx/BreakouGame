@@ -2,8 +2,10 @@
 DQN
 # ENV
 anaconda(recommended)
-gym
-gym[atari]
-tensorflow
-pandas
-pandas
+
+gym  
+gym[atari]  
+tensorflow  
+keras  
+pandas  
+
